@@ -1,3 +1,3 @@
 # pion-internal/signal
 
-Pion WebRTC Internal Signal Part
+Pion WebRTC Internal Signalling Part
